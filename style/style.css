@@ -20,3 +20,12 @@ li a {
   color: rgb(26, 10, 117);
   margin-top: 15px;
 }
+.gitar-wrapp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.gitar-img {
+  width: 200px;
+}
