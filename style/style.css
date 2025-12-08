@@ -4,6 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: aliceblue;
+  margin: 0 20px;
 }
 .header-1 {
   font-size: 72px;
@@ -15,7 +16,7 @@ body li {
   margin-top: 15px;
 }
 li a {
-  font-size: 56px;
+  font-size: 46px;
   font-weight: 600;
   color: rgb(26, 10, 117);
   margin-top: 15px;
