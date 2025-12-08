@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aliceblue;
+}
+.header-1 {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 100%;
+  margin-top: 10px;
+}
+body li {
+  margin-top: 15px;
+}
+li a {
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(26, 10, 117);
+  margin-top: 15px;
+}
