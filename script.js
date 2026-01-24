@@ -12,5 +12,3 @@ const allSongs = document.getElementsByTagName("a");
   }
 });
 
-
-console.log('asdfasdfasfdasfd')
