@@ -11,3 +11,4 @@ const allSongs = document.getElementsByTagName("a");
     element.textContent = `${index + 1}. ${text}`;
   }
 });
+
